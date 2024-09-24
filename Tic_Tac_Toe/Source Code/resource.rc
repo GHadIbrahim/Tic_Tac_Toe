@@ -1,0 +1,4 @@
+#ifndef recourse_rc
+#define recourse_rc
+MAINICON ICON "Icon.ico"
+#endif
