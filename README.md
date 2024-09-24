@@ -9,9 +9,9 @@ This repository contains C++ based interactive Tic-Tac-Toe game and background m
  - Press (+) to increase background music volume or (-) to decrease it
 
 ## 📷 Screenshots
-![Screenshot 1](Screenshot-1.png)
-![Screenshot 2](Screenshot-1.png)
-![Screenshot 3](Screenshot-1.png)
+![Screenshot 1](Screenshot-1.jpg)
+![Screenshot 2](Screenshot-2.jpg)
+![Screenshot 3](Screenshot-3.jpg)
 
 
 ## 👨🏻‍💻 Languages and Libararies
