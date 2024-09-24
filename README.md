@@ -1,5 +1,5 @@
 # Tic_Tac_Toe
-##Controls
+## Controls
 Press P to play/pause background music
 Press + to increase background music volume or - to decrease it
 you can use arrows and (WASD) to play Game
