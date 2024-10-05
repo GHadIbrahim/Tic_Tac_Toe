@@ -12,6 +12,6 @@ This repository contains C++ based interactive Tic-Tac-Toe game and background m
 ## 👨🏻‍💻 Languages and Libararies
 
 I created this Project using :
-- C++ .
+- C++
 - [SFML - Simple and Fast Multimedia Library](https://www.sfml-dev.org/)
 - XML
